@@ -1,0 +1,11 @@
+# MCP SDK and development tools
+mcp[cli]>=1.28,<2
+
+# Database interaction
+sqlalchemy
+
+# SQL parsing and validation
+sqlglot
+
+# Environment variable management
+python-dotenv
